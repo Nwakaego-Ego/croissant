@@ -1,9 +1,14 @@
-.container {
+/* .container {
   display: flex;
   justify-content: center;
-}
+} */
 
 h1 {
   text-align: center;
   color: red;
+}
+
+img {
+  display: flex;
+  justify-content: center;
 }
