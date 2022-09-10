@@ -1,7 +1,6 @@
-/* .container {
-  display: flex;
-  justify-content: center;
-} */
+body {
+  background-color: aquamarine !important;
+}
 
 h1 {
   text-align: center;
