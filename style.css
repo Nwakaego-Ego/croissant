@@ -1,13 +1,66 @@
-body {
-  background-color: aquamarine !important;
+.croissant-img {
+  border-radius: 20px !important;
 }
 
-h1 {
-  text-align: center;
-  color: red;
+.about-croissant {
 }
 
-img {
-  display: flex;
-  justify-content: center;
+.contact-container {
+  color: #870f34;
+}
+ail .contact-details {
+  position: relative;
+  top: -350px;
+}
+
+.contact-button {
+  background-color: #870f34;
+  color: white;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.7);
+}
+
+.contact-email {
+  color: #870f34;
+  text-decoration: none;
+}
+
+.about-email:hover {
+  color: #870f34 !important;
+}
+.croissant-list {
+  position: relative;
+  left: 20%;
+}
+
+.main {
+  background: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/045/978/original/bg-croissant.jpg?1662839353")
+    no-repeat center fixed;
+  background-size: cover;
+}
+
+.about-container {
+  max-width: 60%;
+  color: #1f4760;
+}
+
+.about-link {
+  text-decoration: none;
+  color: #1f4760;
+}
+
+.about-button {
+  background-color: #002f00;
+  color: white;
+}
+.about-button {
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.7);
+}
+
+.home-button {
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.7);
+}
+
+.home-button:hover {
+  background-color: white;
+  color: #9c9897;
 }
